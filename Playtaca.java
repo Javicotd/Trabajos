@@ -1,7 +1,7 @@
 package cole;
 
 import java.util.Scanner;
-
+//este trabajo mio va de un programa para jugar contra la maquina con juegos clasicos
 public class Playtaca {
 
 	public static void main(String[] args) {
